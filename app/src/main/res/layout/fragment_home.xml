@@ -27,7 +27,8 @@
                 android:text="DISCOVER"
                 android:textColor="#535353"
                 android:textSize="@dimen/_24font_mdp"
-                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintBottom_toBottomOf="@+id/profile_image"
+                app:layout_constraintEnd_toStartOf="@+id/profile_image"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="@+id/profile_image" />
 
@@ -83,6 +84,21 @@
                     <androidx.constraintlayout.widget.ConstraintLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
+
+                        <com.makeramen.roundedimageview.RoundedImageView
+                            android:id="@+id/imageView1"
+                            android:layout_width="@dimen/_70mdp"
+
+                            android:layout_height="@dimen/_70mdp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/technology"
+                            app:riv_border_color="#333333"
+                            app:riv_border_width="2dip"
+                            app:riv_corner_radius="30dip"
+                            app:riv_mutate_background="true"
+
+                            app:riv_tile_mode="repeat" />
+
 
                     </androidx.constraintlayout.widget.ConstraintLayout>
                 </LinearLayout>

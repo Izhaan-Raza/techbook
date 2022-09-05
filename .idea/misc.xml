@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/font/aldrich.xml" value="0.4171875" />
         <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/layout/fragment_user.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/xml/menu.xml" value="0.3859375" />
         <entry key="..\:/Users/izzup/AndroidStudioProjects/techbook/app/src/main/res/xml/tabs.xml" value="0.358695652173913" />
       </map>
     </option>
